@@ -23,7 +23,8 @@ export default function Login() {
         <div className="loginLeft">
           <h3 className="loginLogo">Mind-Set SL</h3>
           <span className="loginDesc">
-            Connect Same kin of people as like you think Mind-Set platform.
+              Don't Stress, Be happy. 
+              Happy Lanka 🇱🇰
           </span>
         </div>
         <div className="loginRight">
